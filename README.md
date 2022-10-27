@@ -8,9 +8,7 @@
 
 - Software Development 💻
 - Computer Science Student 🧑🏼‍💻
-- Tech Enthusiast 🤓
-
-### Development Intern at Atua Sistemas de Informação 🚀 🚀
+- Tech Enthusiast 🤓\
 
 ----
 
@@ -19,7 +17,7 @@
   height="140em"
  />
  <img  
-  src="https://github-readme-stats.vercel.app/api?username=Arthur-Vassoler&show_icons=true&theme=tokyonight&hide=stars,issues&custom_title=Git Status"  
+  src="https://github-readme-stats.vercel.app/api?username=Arthur-Vassoler&show_icons=true&theme=tokyonight&hide=stars,issues&custom_title=Git%20Status" 
   height="140em"
  />
  
