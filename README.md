@@ -3,12 +3,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/arthur-vassoler/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heckvassoler77@gmail.com)
 
-
 ## About me:
 
 - Software Development 💻
 - Computer Science Student 🧑🏼‍💻
-- Tech Enthusiast 🤓\
+- Tech Enthusiast 🤓
 
 ----
 
